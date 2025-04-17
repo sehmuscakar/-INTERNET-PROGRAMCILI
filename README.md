@@ -1,2 +1,1 @@
-# -NTERNET-PROGRAMCILI-I
-İNTERNET PROGRAMCILIĞI FİNAL ÖDEVİ
+🌐 İNTERNET PROGRAMCILIĞI FİNAL ÖDEVİ – ASP.NET Web Forms Projesi Bu proje, klasik ASP.NET Web Forms kullanılarak geliştirilmiş bir web uygulamasıdır. Proje sağlık, yaşam tarzı ve zaman yönetimi konularını kapsayan eğitim amaçlı final ödevidir.
